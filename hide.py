@@ -80,7 +80,7 @@ if __name__ == "__main__":
     simple_key = "mynameiscody"  # Can be any string now
     print(f"Using simple key: {simple_key}")
     
-    input_image = "flarp.jpg"  # Can be any image format
+    input_image = "cody.jpeg"  # Can be any image format
     output_image = "output.png"  # Will always be PNG
     secret_message = "Cody likes to make things."
     
