@@ -1,4 +1,3 @@
-Here is a **README** in markdown format for your project:
 
 ```markdown
 # Hide and Extract Messages in Images
