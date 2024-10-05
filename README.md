@@ -1,5 +1,3 @@
-
-```markdown
 # Hide and Extract Messages in Images
 
 This project provides two scripts, `hide.py` and `show.py`, to hide and extract encrypted messages in image files. Messages are encrypted using the **Fernet** symmetric encryption system, and the encrypted message is hidden in an image using steganography.
